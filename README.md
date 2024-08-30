@@ -2,14 +2,13 @@ Weather Forecast App
 A simple and user-friendly weather forecast application that allows users to search for weather information by city. The app provides current weather details such as temperature, humidity, wind speed, and a 5-day forecast. It also includes a dark theme toggle for a better user experience.
 
 Demo:
-You can check out the live version of the project here.
+You can check out the live version of the project here https://weather-forecast-sana-sajjad.netlify.app/
 
 Features:
 Displays current weather data, including temperature, humidity, wind speed, and weather description.
 Provides a 5-day weather forecast with daily high and low temperatures.
 Search functionality to get weather information for any city.
 Dark mode toggle for better visibility in different lighting conditions.
-Responsive design for all screen sizes.
 
 Technologies Used:
 HTML5: Structure and content of the app.
